@@ -1,6 +1,6 @@
 package io.github.ianoliveira.api.config;
 
-import io.github.ianoliveira.api.domain.User;
+import domain.User;
 import io.github.ianoliveira.api.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
