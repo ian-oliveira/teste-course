@@ -1,7 +1,7 @@
 package io.github.ianoliveira.api.resources;
 
-import domain.User;
-import domain.dto.UserDTO;
+import io.github.ianoliveira.api.domain.User;
+import io.github.ianoliveira.api.domain.dto.UserDTO;
 import io.github.ianoliveira.api.services.UserService;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;

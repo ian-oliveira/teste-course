@@ -1,4 +1,4 @@
-package domain;
+package io.github.ianoliveira.api.domain;
 
 import javax.persistence.*;
 import java.util.Objects;

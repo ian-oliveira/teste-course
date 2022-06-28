@@ -1,7 +1,7 @@
 package io.github.ianoliveira.api.resources;
 
-import domain.User;
-import domain.dto.UserDTO;
+import io.github.ianoliveira.api.domain.User;
+import io.github.ianoliveira.api.domain.dto.UserDTO;
 import io.github.ianoliveira.api.services.impl.UserServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

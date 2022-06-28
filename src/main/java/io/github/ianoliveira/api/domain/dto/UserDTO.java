@@ -1,4 +1,4 @@
-package domain.dto;
+package io.github.ianoliveira.api.domain.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

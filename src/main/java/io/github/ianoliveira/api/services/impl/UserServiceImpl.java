@@ -1,7 +1,7 @@
 package io.github.ianoliveira.api.services.impl;
 
-import domain.User;
-import domain.dto.UserDTO;
+import io.github.ianoliveira.api.domain.User;
+import io.github.ianoliveira.api.domain.dto.UserDTO;
 import io.github.ianoliveira.api.repositories.UserRepository;
 import io.github.ianoliveira.api.services.UserService;
 import io.github.ianoliveira.api.services.exceptions.DataIntegratyViolationException;
